@@ -1,0 +1,19 @@
+.ButtonStyle{
+    width: 175px;
+    height: 50px;
+  
+    border-radius: 5px;
+    border-style: none;
+    margin: 0 5px 0 0;
+    font-size: 1.125rem;
+    color:#fffbeb;
+}
+
+.primary {
+   background-image: linear-gradient(#805fe6,#6136e7);
+}
+.secondary {
+   background-image: linear-gradient(#e54cb5,#bb3490);
+}
+
+

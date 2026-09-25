@@ -1,0 +1,19 @@
+@import "../../styles/variables.css";
+main {  
+    width: 100%;
+    max-height: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    background-image: linear-gradient(#3c155a,var(--color-bg) );
+}
+.section {
+    margin: 100px 0 0 0;
+    width: 50%;
+    height: 100%;
+   
+}
+
+.p {
+    color: var(--color-font);
+}

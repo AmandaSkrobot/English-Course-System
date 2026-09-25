@@ -1,0 +1,36 @@
+@import "../../styles/variables.css";
+.header {
+    width: 100%;
+    height: 85px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--color-bg-nav);
+    color:var(--color-font);  
+}
+.headerDiv {
+    width:90%;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navBar {     
+    margin: 0 25px 0 25px;
+    padding: 15px 10px;
+    border: 3px solid rgba(243, 243, 243, 0.1);
+    border-radius: 5px;
+  
+}
+.links {
+    color:var(--color-font);
+    margin: 0 25px 0 25px;
+    align-items: center;
+    justify-content: center;    
+    color: #ededed;
+    font-size: .9rem;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-decoration: none;
+}
+
